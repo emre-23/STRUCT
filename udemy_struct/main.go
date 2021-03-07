@@ -15,4 +15,5 @@ func main() {
 	alex.lastName = "Görmüş"
 	fmt.Println(alex)
 	fmt.Printf("%+v", alex)
+	fmt.Println("Hello")
 }
