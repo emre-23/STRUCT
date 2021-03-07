@@ -13,6 +13,6 @@ func main() {
 	var alex person
 	alex.firstName = "Emre"
 	alex.lastName = "Görmüş"
-	fmt.Println(alex)
+	//fmt.Println(alex)
 	fmt.Printf("%+v", alex)
 }
