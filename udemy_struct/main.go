@@ -23,9 +23,9 @@ func main() {
 			zipCode: 34906,
 		},
 	}
-	emrePointer := &emre
-	emrePointer.updateName("Yunus")
-	emrePointer.updateLastName("Alkılıç")
+
+	emre.updateName("Yunus")
+	emre.updateLastName("Alkılıç")
 	emre.print()
 }
 
